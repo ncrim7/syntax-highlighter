@@ -17,10 +17,10 @@ Bu proje, Python kaynak kodunun gerçek zamanlı analizini gerçekleştiren kaps
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ Mimari
 Proje beş ana bileşen halinde modülerleştirilmiştir:
 
-### Core Modules
+### Modüller
 - `tokens.py` - Belirteç türü tanımları ve veri yapıları  
 - `lexer.py` - Sonlu durum makinesi ile sözcük çözümleyici   
 - `parser.py` - Özyinelemeli iniş ayrıştırıcı uygulaması  
