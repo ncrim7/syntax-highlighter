@@ -2,7 +2,7 @@
 # Gerçek Zamanlı Python Sözdizimi Vurgulayıcı  
 **BLM0238 Programlama Dilleri Projesi**
 
-Python ve Tkinter kullanılarak oluşturulmuş, sözcüksel analiz ve ayrıştırma yeteneklerine sahip gerçek zamanlı bir sözdizimi vurgulayıcısının eksiksiz bir uygulaması.
+Python ve Tkinter kullanılarak oluşturulmuş, sözcüksel analiz ve ayrıştırma yeteneklerine sahip gerçek zamanlı bir sözdizimi vurgulayıcısı uygulaması.
 
 ---
 
