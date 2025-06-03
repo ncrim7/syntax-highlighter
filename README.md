@@ -1,3 +1,4 @@
+➤ Demo Videosu : [`Syntax Highlighter`](https://youtu.be/pwqJkFLGk84)
 
 # Gerçek Zamanlı Python Sözdizimi Vurgulayıcı  
 **BLM0238 Programlama Dilleri Projesi**
