@@ -134,7 +134,13 @@ python main.py --help
 - **Engellemeyen kullanıcı arayüzü**: Analiz sırasında duyarlı arayüzü korur
 
 ---
+## 📸 Ekran Görüntüleri
 
+<img src="https://github.com/ncrim7/syntax-highlighter/blob/main/img/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-03%20221200.png" width="600px" height="auto">. 
+<img src="https://github.com/ncrim7/syntax-highlighter/blob/main/img/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-03%20221207.png" width="600px" height="auto">. 
+<img src="https://github.com/ncrim7/syntax-highlighter/blob/main/img/Ekran%20g%C3%B6r%C3%BCnt%C3%BCs%C3%BC%202025-06-03%20221211.png" width="600px" height="auto">. 
+
+---
 ## 📊 Örnek Analiz Çıktısı
 
 ```
